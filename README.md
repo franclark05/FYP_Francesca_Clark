@@ -32,23 +32,7 @@ Main service fault detection pipeline.
 evaluation/
 Evaluation scripts used to assess system performance.
 
-experiments/
-Development and debugging scripts used during implementation.
+development/
+Experiments and debugging scripts used during implementation.
 
-## Requirements
-
-Install dependencies using:
-
-pip install -r requirements.txt
-
-## Running the Pipeline
-
-Example:
-
-python pipeline/main.py
-
-Update paths in `pipeline/config.py` as required.
-
-## Notes
-
-Datasets and trained model weights are not included in this repository due to size limitations.
+Datasets and trained model weights are not included in this repository due to size limitations and participant privacy considerations.
